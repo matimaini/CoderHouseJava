@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoderHouseMati.iml" filepath="$PROJECT_DIR$/CoderHouseMati.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entregable/Entregable.iml" filepath="$PROJECT_DIR$/Entregable/Entregable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entregable Clase 6/Entregable Clase 6.iml" filepath="$PROJECT_DIR$/Entregable Clase 6/Entregable Clase 6.iml" />
+    </modules>
+  </component>
+</project>
